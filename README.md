@@ -4,7 +4,7 @@ It is a client-side web application delivering a modern "stories" experience, al
 
 ---
 
-**🚀 Live Demo:** [**stories-application-two.vercel.app**](https://stories-application-two.vercel.app)
+**🚀 Live Demo:** [**24Hour_stories_application**](https://2023uec2689.github.io/24Hour_stories_application/)
 
 ---
 
